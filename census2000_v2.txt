@@ -1,4 +1,4 @@
-RegionID	Longitude	Latitude	RegionDensityPercentile	RegionPopulation	MedianHouseholdIncome	AverageHouseholdSize
+number	Longitude	Latitude	RegionDensityPercentile	RegionPopulation	MedianHouseholdIncome	AverageHouseholdSize
 601	-66.74947	18.180103	70	19143	9888	3.24
 602	-67.18025	18.363285	83	42042	11384	3.1
 603	-67.13422	18.448619	86	55592	10748	2.84
